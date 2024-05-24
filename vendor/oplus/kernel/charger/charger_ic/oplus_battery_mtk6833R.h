@@ -43,11 +43,11 @@ struct charger_manager;
 #include "../../../../kernel/drivers/misc/mediatek/typec/tcpc/inc/tcpm.h"
 #include "../../../../kernel/drivers/misc/mediatek/typec/tcpc/inc/mtk_direct_charge_vdm.h"
 struct charger_manager;
-#include "../../../../kernel-4.19/drivers/power/supply/mediatek/charger/mtk_pe_intf.h"
-#include "../../../../kernel-4.19/drivers/power/supply/mediatek/charger/mtk_pe20_intf.h"
-#include "../../../../kernel-4.19/drivers/power/supply/mediatek/charger/mtk_pdc_intf.h"
-#include "../../../../kernel-4.19/drivers/power/supply/mediatek/charger/mtk_charger_init.h"
-#include "../../../../kernel-4.19/drivers/power/supply/mediatek/charger/mtk_charger_intf.h"
+#include "../../../../kernel/drivers/power/supply/mediatek/charger/mtk_pe_intf.h"
+#include "../../../../kernel/drivers/power/supply/mediatek/charger/mtk_pe20_intf.h"
+#include "../../../../kernel/drivers/power/supply/mediatek/charger/mtk_pdc_intf.h"
+#include "../../../../kernel/drivers/power/supply/mediatek/charger/mtk_charger_init.h"
+#include "../../../../kernel/drivers/power/supply/mediatek/charger/mtk_charger_intf.h"
 #endif
 
 
